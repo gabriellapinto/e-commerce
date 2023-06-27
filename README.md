@@ -9,3 +9,4 @@ This project's objective was to create a functioning back-end application for an
 * MySQL
 
 ## Link to Video Walkthrough
+https://drive.google.com/file/d/1WXEAfUIUXI0kLjqRkt4j2vF0doCAAyb7/view
